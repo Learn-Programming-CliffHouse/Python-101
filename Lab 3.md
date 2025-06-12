@@ -23,10 +23,27 @@ First we should define some more information about the screen and the square. I 
 
 Now that we have the square and screen set up, let's make it so that the square can be moved using the arrow keys. The square should move in the direction of the arrow key pressed and keep moving in that direction until another arrow key is pressed. If the square reaches the edge of the screen, it should teleport back to the center of the screen.
 
-## Challenge 2: Makeing a Snake Class
-## Challenge 3: Subtitle
+## Challenge 2: Making a Snake Class
+Your code is probably getting a bit messy at this point so let's organize it a bit by creating a `Snake` class. 
 
-```
+This class should have the following:
+### Variables
+- `x`: The x-coordinate of the snake's head.
+- `y`: The y-coordinate of the snake's head.
+- `width`: The width of the snake
+- `height`: The height of the snake
+- `color`: The color of the snake
+- `direction`: This should be a list that contains the xy direction the snake is moving in, e.g. `[1, 0]` for right, `[-1, 0]` for left, `[0, 1]` for down, and `[0, -1]` for up.
+- `screen_width`: The width of the screen.
+- `screen_height`: The height of the screen.
+
+### Methods
+- `__init__(self, x, y, width, height, color)`: This method should initialize the snake's position, size, color, and direction.
+- `move(self)`: This method should update the snake's position based on its direction and handle border collision logic.
+- `draw(self, screen)`: This method should draw the snake on the screen.
+- `change_direction(self, direction)`: This method should change the snake's direction based on the input direction. It should not allow the snake to move in the opposite direction (e.g. if the snake is moving right, it should not be able to change direction to left).
+
+Update your main loop to create an instance of the `Snake` class and use its methods to move and draw the snake on the screen. The snake should still be controlled by the arrow keys.
 
 # Submitting Assignment
 Once you have completed the challenges, make sure to:
@@ -50,10 +67,6 @@ Once you have completed the challenges, make sure to:
 
 Total Points: 10
 
-- Criteria 1 - 1 point
-- Criteria 2 - 1 point
-- Criteria 3 - 1 point
-- Criteria 4 - 1 point
-- Criteria 5 - 2 points
-- Criteria 6 - 2 points
-- Criteria 7 - 2 points
+- Left thorough comments explaining what the code is doing - 2 points (1/2 credit for leaving comments in only a few places)
+- Completed Challenge 1 - 4 points
+- Completed Challenge 2 - 4 points

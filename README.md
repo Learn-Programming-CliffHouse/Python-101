@@ -22,12 +22,11 @@ The course consists of 1 introductory lesson and 8 hands-on labs, each building 
 
 - Introduction session and Lab 1: Project Setup & Python Basics - Virtual environments, git, Variables, data types, and syntax
 - Lab 2: Drawing & Movement - Setup the basic game loop and draw something to the screen
-- Lab 3: User Input - Conditionals and handling keyboard controls
-- Lab 4: Game Objects - Lists, classes, and creating the snake body
-- Lab 5: Collision Detection - Logic operations and game boundaries
-- Lab 6: Food Generation - Random module and spawning food items
-- Lab 7: Scoring & Growth - Dictionaries and snake growth mechanics
-- Lab 8: Game States - File I/O and implementing game over/restart functionality
+- Lab 3: User Input & Organization - Handling keyboard controls and creating a snake class
+- Lab 4: Collision Detection - Logic operations and game boundaries
+- Lab 5: Food Generation - Random module and spawning food items
+- Lab 6: Scoring & Growth - Dictionaries and snake growth mechanics
+- Lab 7: Game States - File I/O and implementing game over/restart functionality
 
 By the end of this course, students will have created their own version of the classic Snake game while building a solid foundation in Python programming.
 
