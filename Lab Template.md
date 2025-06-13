@@ -22,8 +22,6 @@
 ## Challenge 2: Subtitle
 ## Challenge 3: Subtitle
 
-```
-
 # Submitting Assignment
 Once you have completed the challenges, make sure to:
 1. Save your work.

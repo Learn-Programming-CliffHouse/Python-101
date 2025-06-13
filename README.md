@@ -25,6 +25,7 @@ The course consists of 1 introductory lesson and 8 hands-on labs, each building 
 - Lab 3: User Input & Organization - Handling keyboard controls and creating a snake class
 - Lab 4: Grabbing a snack - Random module, spawning food items, and scoring
 - Lab 5: Game States - File I/O and implementing game over/restart functionality
+- Lab 6: Refactoring & Enhancements - Refactoring code for better organization
 
 By the end of this course, students will have created their own version of the classic Snake game while building a solid foundation in Python programming.
 
