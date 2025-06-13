@@ -191,14 +191,14 @@ You're done! Congrats! This is going to be one of the longest labs you work on a
 2. Commit your changes in GitHub Desktop.
    - Click on "Changes" in the left sidebar.
    - Write a commit message like "Completed Lab 2: Draw Something to the Screen".
-   - Click "Commit to lab-2".
+   - Click "Commit to lab-1".
 3. Push your changes to GitHub.
    - Click on "Push origin" in the top bar.
 4. Create a pull request in GitHub
     - Go to your repository on GitHub.
     - Click on "Pull requests" in the top menu.
     - Click on "New pull request".
-    - Select `lab-2` as the branch you want to merge into `main`.
+    - Select `lab-1` as the branch you want to merge into `main`.
     - Click "Create pull request".
     - Add a title and description, then click "Create pull request".
 5. Let the instructor know that you have completed the lab by sending a message.

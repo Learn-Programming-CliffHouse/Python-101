@@ -7,7 +7,13 @@
 - Add collision detection to your game.
 
 ## Setup
-1. Make sure your virtual environment is activated. You can do this by running:
+1. Create a new branch using GitHub Desktop and name it `lab-3`.
+   - Open GitHub Desktop
+   - Click on the "Current Branch" dropdown
+   - Click on "New Branch"
+   - Name the branch `lab-3`
+   - Click "Create Branch"
+2. Make sure your virtual environment is activated. You can do this by running:
    ```powershell
    .\venv\Scripts\Activate
    ```
@@ -51,14 +57,14 @@ Once you have completed the challenges, make sure to:
 2. Commit your changes in GitHub Desktop.
    - Click on "Changes" in the left sidebar.
    - Write a commit message like "Completed Lab 2: Draw Something to the Screen".
-   - Click "Commit to lab-2".
+   - Click "Commit to lab-3".
 3. Push your changes to GitHub.
    - Click on "Push origin" in the top bar.
 4. Create a pull request in GitHub
     - Go to your repository on GitHub.
     - Click on "Pull requests" in the top menu.
     - Click on "New pull request".
-    - Select `lab-2` as the branch you want to merge into `main`.
+    - Select `lab-3` as the branch you want to merge into `main`.
     - Click "Create pull request".
     - Add a title and description, then click "Create pull request".
 5. Let the instructor know that you have completed the lab by sending a message.
