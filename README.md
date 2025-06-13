@@ -9,12 +9,12 @@ Throughout the course, students will develop practical programming skills while 
 
 ## Learning Objectives
 
-Master Python syntax, data types, and basic programming concepts
-Develop problem-solving skills through game development challenges
-Learn object-oriented programming by implementing game components
-Understand event handling and user input processing
-Gain experience with game loops and basic animation
-Practice debugging and testing techniques
+- Master Python syntax, data types, and basic programming concepts
+- Develop problem-solving skills through game development challenges
+- Learn object-oriented programming by implementing game components
+- Understand event handling and user input processing
+- Gain experience with game loops and basic animation
+- Practice debugging and testing techniques
 
 ## Course Structure
 
