@@ -36,3 +36,14 @@ All code is expected to be tracked through git and submitted on github. We will 
 Labs will be graded according to the rubric at the top of each lab assignment. Any places that are areas for improvement will be left as comments on your pull requests. You'll be given the chance to correct any errors and resubmit your code up to one week after the comments were left on your pull request.
 
 All labs are due 1 week after their introduction. For each additional day late, 5% of the total lab grade will be deducted. If you think you'll be submitting an assignment late for any reason, please let me know as soon as possible so we can work something out.
+
+### Final Grade Calculation
+Each lab is worth 10 points for a total of 60 points. The final grade will be calculated as follows:
+
+| Points | Letter Grade |
+|--------|--------------|
+| 54-60  | A            |
+| 48-53  | B            |
+| 42-47  | C            |
+| 36-41  | D            |
+|| 0-35   | F            |
